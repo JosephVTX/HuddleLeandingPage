@@ -53,8 +53,3 @@ I want to keep focusing on the use of em and rem meassures and made a responsive
 ### Useful resources
 
 - [Falcon Master](https://www.youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg) - This is an amazing chanel which helped to me to understand the basics aspects about LayOut on CSS and proporties on JS. I'd recommend it to anyone who want to learn the basis of the language.
-
-
-## Author
-
-- Frontend Mentor - [@JoshMooner](https://www.frontendmentor.io/profile/JoshMooner)
