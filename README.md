@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/HuddleLeandingPage](https://github.com/JoshMooner/HuddleLeandingPage)
-- Live Site URL: [https://joshmooner.github.io/HuddleLeandingPage/](https://joshmooner.github.io/HuddleLeandingPage/)
+- Solution URL: [https://github.com/JosephVTX/HuddleLeandingPage/]
+- Live Site URL: [https://josephvtx.github.io/HuddleLeandingPage/]
 
 ## My process
 
